@@ -1,6 +1,4 @@
-This is the sample application Twitter clone.
-
-## Getting started
+This is the sample application Twitter clone. The readme file will be updated when the project is complete.
 
 To get started with the app, clone the repo and then install the needed gems:
 
@@ -25,9 +23,3 @@ If the test suite passes, you'll be ready to run the app in a local server:
 ```
 $ rails server
 ```
-
-## License
-
-All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
-is available jointly under the MIT License and the Beerware License. See
-[LICENSE.md](LICENSE.md) for details.
