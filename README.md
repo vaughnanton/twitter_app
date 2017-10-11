@@ -1,4 +1,6 @@
-This is the sample application Twitter clone. The readme file will be updated when the project is complete.
+**PROJECT IS NOT COMPLETE, README WILL UPDATE AT TIME OF COMPLETION**
+
+This is the sample application Twitter clone.
 
 To get started with the app, clone the repo and then install the needed gems:
 
