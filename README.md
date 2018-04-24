@@ -25,3 +25,5 @@ If the test suite passes, you'll be ready to run the app in a local server:
 ```
 $ rails server
 ```
+
+section 11.4 not completed due to billing required
