@@ -1,29 +1,6 @@
-**PROJECT IS NOT COMPLETE, README WILL UPDATE AT TIME OF COMPLETION**
+This repository houses a sample web application built with Ruby on Rails. The app consists of users and their associated following and messages/feed (think twitter). Skim through the code sign or sign up to be able to use the application.
 
-This is the sample application Twitter clone.
+[Sample Ruby on Rails App](https://dashboard.heroku.com/apps/secure-everglades-86674/settings)
 
-To get started with the app, clone the repo and then install the needed gems:
 
-```
-$ bundle install --without production
-```
-
-Next, migrate the database:
-
-```
-$ rails db:migrate
-```
-
-Finally, run the test suite to verify that everything is working correctly:
-
-```
-$ rails test
-```
-
-If the test suite passes, you'll be ready to run the app in a local server:
-
-```
-$ rails server
-```
-
-section 11.4 not completed due to billing required
+*update: I have shut down the account confirmation mailer associated with the application*
